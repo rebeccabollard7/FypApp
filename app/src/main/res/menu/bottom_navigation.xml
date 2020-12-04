@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_explore_24"
+        android:title="Nearby" />
+
+
+    <item
+        android:id="@+id/nav_gyms"
+        android:icon="@drawable/ic_baseline_fitness_center_24"
+        android:title="Gyms" />
+
+    <item
+        android:id="@+id/nav_classes"
+        android:icon="@drawable/ic_baseline_class_24"
+        android:title="Classes" />
+
+
+</menu>
